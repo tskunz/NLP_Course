@@ -1,0 +1,11 @@
+scikit-learn>=1.0.2
+numpy>=1.21.0
+spacy>=3.5.0
+pandas>=1.4.0
+scipy>=1.7.0
+torch>=2.0.0
+transformers>=4.36.0
+sentence-transformers>=2.2.2
+pillow>=10.0.0
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.5.0/en_core_web_lg-3.5.0.tar.gz
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz 
