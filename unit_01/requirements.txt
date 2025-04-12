@@ -1,0 +1,14 @@
+# Core NLP libraries
+nltk==3.8.1
+spacy==3.7.2
+transformers==4.36.2
+torch==2.1.2
+sentencepiece==0.1.99
+
+# Additional dependencies
+numpy==1.24.3
+pandas==2.0.3
+tqdm==4.66.1
+
+# Download spaCy model
+# Run: python -m spacy download en_core_web_sm 
